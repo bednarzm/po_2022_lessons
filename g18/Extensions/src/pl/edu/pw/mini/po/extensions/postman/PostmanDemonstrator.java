@@ -4,7 +4,7 @@ public class PostmanDemonstrator {
 
 	public static void main(String[] args) {
 		
-		Parcel parcel = new Bomb();
+		Parcel parcel = new Bomb(111);
 		
 		doJob(parcel);
 		
