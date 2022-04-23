@@ -8,50 +8,58 @@ import pl.edu.pw.mini.po.part2collections.collections.performancetasks.list.getb
 import pl.edu.pw.mini.po.part2collections.collections.performancetasks.list.getbyindex.LinkedListGetByIndexPerformanceTask;
 import pl.edu.pw.mini.po.part2collections.collections.performancetasks.list.remove.ArrayListRemovePerformanceTask;
 import pl.edu.pw.mini.po.part2collections.collections.performancetasks.list.remove.LinkedListRemovePerformanceTask;
+import pl.edu.pw.mini.po.part2collections.collections.performancetasks.set.add.HashSetAddObjectSetPerformanceTask;
+import pl.edu.pw.mini.po.part2collections.collections.performancetasks.set.add.LinkedHashSetAddObjectSetPerformanceTask;
+import pl.edu.pw.mini.po.part2collections.collections.performancetasks.set.add.TreeSetAddObjectSetPerformanceTask;
+import pl.edu.pw.mini.po.part2collections.collections.performancetasks.set.contains.HashSetContainsSetPerformanceTask;
+import pl.edu.pw.mini.po.part2collections.collections.performancetasks.set.contains.LinkedHashSetContainsPerformanceTask;
+import pl.edu.pw.mini.po.part2collections.collections.performancetasks.set.contains.TreeSetContainsPerformanceTask;
 
 public class PerformanceMeter {
 	
 	public static void main(String [] args) {
-		/*
-		System.out.println("Adding duration: ");
-		measureTaskPerformance(new ArrayListAddPerformanceTask(20_000_000, "ArrayListAdd"));
-		measureTaskPerformance(new LinkedListAddPerformanceTask(20_000_000, "LinkedListAdd"));
-		System.out.println();
-		*/
 		
-		/*
 		System.out.println("Get by index duration: ");
 		measureTaskPerformance(new ArrayListGetByIndexPerformanceTask(100_000_000, "ArrayListGetByIndex"));
 		measureTaskPerformance(new LinkedListGetByIndexPerformanceTask(100_000_000, "LinkedListGetByIndex"));
 		System.out.println();
-		*/
+
+		System.out.println("Add: ");
+		measureTaskPerformance(new ArrayListAddPerformanceTask(20_000_000, "ArrayListAdd"));
+		measureTaskPerformance(new LinkedListAddPerformanceTask(20_000_000, "LinkedListAdd"));
+		measureTaskPerformance(new HashSetAddObjectSetPerformanceTask(20_000_000, "HashSetAdd"));
+		measureTaskPerformance(new LinkedHashSetAddObjectSetPerformanceTask(20_000_000, "LinkedHashSetAdd"));
+		measureTaskPerformance(new TreeSetAddObjectSetPerformanceTask(20_000_000, "TreeAdd"));
+		System.out.println();
 		
-		/*
 		System.out.println("Remove: ");
 		measureTaskPerformance(new ArrayListRemovePerformanceTask(400_000, "ArrayListRemove"));
 		measureTaskPerformance(new LinkedListRemovePerformanceTask(400_000, "LinkedListRemove"));
+		measureTaskPerformance(new LinkedListRemovePerformanceTask(400_000, "HashSetRemove"));
+		measureTaskPerformance(new LinkedListRemovePerformanceTask(400_000, "LinkedHashSetRemove"));
+		measureTaskPerformance(new LinkedListRemovePerformanceTask(400_000, "TreeSetRemove"));
 		System.out.println();
-		*/
-		/*
-		System.out.println("Contains: ");
-		measureTaskPerformance(new ArrayListContainsObjectPerformanceTask(200_000_000, "ArrayListContains"));
-		measureTaskPerformance(new LinkedListContainsObjectPerformanceTask(200_000_000, "LinkedListContains"));
-		System.out.println();
-		*/
 		
+		System.out.println("Contains: ");
+		measureTaskPerformance(new ArrayListContainsObjectPerformanceTask(200_000, "ArrayListContains"));
+		measureTaskPerformance(new LinkedListContainsObjectPerformanceTask(200_000, "LinkedListContains"));
+		measureTaskPerformance(new HashSetContainsSetPerformanceTask(200_000, "HashSetContains"));
+		measureTaskPerformance(new LinkedHashSetContainsPerformanceTask(200_000, "LinkedHashSetContains"));
+		measureTaskPerformance(new TreeSetContainsPerformanceTask(200_000, "TreeSetContains"));
+
+		System.out.println();
 	}
 
 	public static void measureTaskPerformance(PerformanceMeterTask performanceMeterTask) {
 		performanceMeterTask.prepareTask();
-		
+
 		long timeBefore = System.currentTimeMillis();
 		performanceMeterTask.doTask();
 		long timeAfter = System.currentTimeMillis();
-		
+
 		double duration = (timeAfter - timeBefore)/1000.0;
-		
-		System.out.println("The " + performanceMeterTask + " duration (in seconds) is: " + duration);
-		
+		System.out.println("The " + performanceMeterTask + " duration (in seconds) is: " + duration + "s");
+
 	}
-	
+
 }

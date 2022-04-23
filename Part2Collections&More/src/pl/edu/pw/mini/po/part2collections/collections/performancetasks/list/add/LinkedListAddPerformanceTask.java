@@ -16,6 +16,4 @@ public class LinkedListAddPerformanceTask extends AddToListPerformanceTask {
 		return new LinkedList<Object>();
 	}
 
-	
-
 }

@@ -32,6 +32,7 @@ public abstract class ContainsObjectPerformanceTask extends ListPerformanceTask 
 
 	@Override
 	public void doTask() {
+		for(int i=0;i<100000;i++)
 		objectList.contains(objectToCheckIfIsContained);
 	}
 

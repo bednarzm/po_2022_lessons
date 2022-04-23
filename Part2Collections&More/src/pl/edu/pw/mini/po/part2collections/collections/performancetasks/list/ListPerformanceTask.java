@@ -12,11 +12,10 @@ public abstract class ListPerformanceTask extends CollectionPerformanceTask {
 	}
 
 	protected abstract List<Object> getListImplementation();
-	
+
 	@Override
 	protected Collection<Object> getCollectionImplementation() {
-		objectList = getListImplementation();
-		return objectList;
+		return objectList = getListImplementation();
 	}
 
 	@Override

@@ -1,7 +1,5 @@
 package pl.edu.pw.mini.po.part2collections.collections.data.model.human;
 
-import java.util.Objects;
-
 public abstract class Human {
 	
 	private String name;

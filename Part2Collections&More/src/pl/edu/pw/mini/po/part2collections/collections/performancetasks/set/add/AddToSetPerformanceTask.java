@@ -1,4 +1,6 @@
-package pl.edu.pw.mini.po.part2collections.collections.performancetasks.set;
+package pl.edu.pw.mini.po.part2collections.collections.performancetasks.set.add;
+
+import pl.edu.pw.mini.po.part2collections.collections.performancetasks.set.SetPerformanceTask;
 
 public abstract class AddToSetPerformanceTask extends SetPerformanceTask {
 

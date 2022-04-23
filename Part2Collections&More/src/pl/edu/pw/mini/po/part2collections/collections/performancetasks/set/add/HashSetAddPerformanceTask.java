@@ -1,4 +1,4 @@
-package pl.edu.pw.mini.po.part2collections.collections.performancetasks.set;
+package pl.edu.pw.mini.po.part2collections.collections.performancetasks.set.add;
 
 import java.util.HashSet;
 import java.util.Set;

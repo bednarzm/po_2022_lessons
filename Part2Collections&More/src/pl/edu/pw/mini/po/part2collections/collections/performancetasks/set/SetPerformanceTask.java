@@ -8,16 +8,16 @@ import pl.edu.pw.mini.po.part2collections.collections.performancetasks.list.Coll
 public abstract class SetPerformanceTask extends CollectionPerformanceTask {
 
 	protected Set<Object> objectSet;
-	
+
 	public SetPerformanceTask(int taskSize, String taskTitle) {
 		super(taskSize, taskTitle);
 	}
-	
+
 	protected abstract Set<Object> getSetImplementation();
 
 	@Override
 	protected Collection<Object> getCollectionImplementation() {
-		return getSetImplementation();
+		return objectSet = getSetImplementation();
 	}
 	
 }

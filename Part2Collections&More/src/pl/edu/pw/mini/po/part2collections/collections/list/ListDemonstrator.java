@@ -1,13 +1,18 @@
 package pl.edu.pw.mini.po.part2collections.collections.list;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.ConcurrentModificationException;
+import java.util.HashSet;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.ListIterator;
+import java.util.Map;
 import java.util.Random;
-import java.util.Spliterator;
+import java.util.Set;
 import java.util.Vector;
 
 import pl.edu.pw.mini.po.part2collections.collections.data.model.human.Human;
@@ -22,7 +27,45 @@ public class ListDemonstrator {
 		//demonstrateArrayList();
 		//demonstrateLinkedList();
 		//demonstrateVectorList();
+		
+		Woman woman = new Woman("Ala");
+		List<Human> humanList = new ArrayList<Human>();
+		humanList.add(woman);
+		humanList.add(new Woman("Jola"));
+		humanList.add(new Man("Piotrek"));
+		humanList.add(new Man("Damian"));
+		
+		Collections.sort(humanList, new Comparator<Human>() {
 
+			@Override
+			public int compare(Human o1, Human o2) {
+				return 0;
+			}
+			
+		});
+		System.out.println("Before shuffle: " + humanList);
+		Collections.shuffle(humanList);
+		
+		Collections.reverse(humanList);
+		
+		System.out.println("After shuffle: " + humanList);
+		List.of(new Woman("Ala"), new Woman("Ala"), new Woman("Ala"), new Woman("Ala"));
+		//Arrays.asList(null)
+		humanList.toArray();
+		Map.of("Rafal", 87, "Stefan", 87);
+		Integer [] myTab = new Integer[100];
+		//zainicjalizowano
+		
+		List<Integer> ints = Arrays.asList(myTab);
+		
+		Set<String> fullOfStrings = new HashSet<>();
+		
+		List<String> listOfStrings = new ArrayList<String>(fullOfStrings);
+		
+		listOfStrings.addAll(listOfStrings);
+		
+		System.out.println("List toString(): " + humanList);
+		
 	}
 
 	private static void demonstrateArrayList() {
@@ -120,7 +163,7 @@ public class ListDemonstrator {
 
 	private static int getNumberOfStudyingWomam(String name, List<Human> humans) {
 		int result = 0;
-
+		
 		for (Human human : humans) {
 			if (human instanceof Woman) {
 				Woman woman = (Woman) human;
