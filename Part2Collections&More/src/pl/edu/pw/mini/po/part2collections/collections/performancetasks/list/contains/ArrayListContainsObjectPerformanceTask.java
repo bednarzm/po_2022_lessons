@@ -10,7 +10,7 @@ public class ArrayListContainsObjectPerformanceTask extends ContainsObjectPerfor
 	}
 
 	@Override
-	protected List<Object> getListImplementation() {
+	protected List<Object> getCollectionImplementation() {
 		return new ArrayList<Object>();
 	}
 

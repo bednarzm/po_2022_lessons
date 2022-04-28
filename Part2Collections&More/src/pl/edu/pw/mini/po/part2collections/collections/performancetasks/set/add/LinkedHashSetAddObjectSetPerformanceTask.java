@@ -1,16 +1,18 @@
 package pl.edu.pw.mini.po.part2collections.collections.performancetasks.set.add;
 
+import java.util.Collection;
 import java.util.LinkedHashSet;
-import java.util.Set;
 
-public class LinkedHashSetAddObjectSetPerformanceTask extends AddObjectSetPerformanceTask {
+import pl.edu.pw.mini.po.part2collections.collections.performancetasks.list.add.AddPerformanceTask;
+
+public class LinkedHashSetAddObjectSetPerformanceTask extends AddPerformanceTask {
 
 	public LinkedHashSetAddObjectSetPerformanceTask(int taskSize, String taskTitle) {
 		super(taskSize, taskTitle);
 	}
 
 	@Override
-	protected Set<Object> getSetImplementation() {
+	protected Collection<Object> getCollectionImplementation() {
 		return new LinkedHashSet<Object>();
 	}
 

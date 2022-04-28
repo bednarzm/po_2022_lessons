@@ -1,11 +1,23 @@
 package pl.edu.pw.mini.po.part2collections.collections.performancetasks.list.getbyindex;
 
-import pl.edu.pw.mini.po.part2collections.collections.performancetasks.list.ListPerformanceTask;
+import java.util.Collection;
+import java.util.List;
 
-public abstract class GetByIndexPerformanceTask extends ListPerformanceTask {
+import pl.edu.pw.mini.po.part2collections.collections.performancetasks.list.CollectionPerformanceTask;
+
+public abstract class GetByIndexPerformanceTask extends CollectionPerformanceTask /*ListPerformanceTask*/ {
+	
+	protected List<Object> collection;
 	
 	public GetByIndexPerformanceTask(int taskSize, String taskTitle) {
 		super(taskSize, taskTitle);
+	}
+
+	protected abstract List<Object> getListImplementation();
+
+	@Override
+	protected Collection<Object> getCollectionImplementation() {
+		return collection = getListImplementation();
 	}
 
 	@Override
@@ -15,8 +27,8 @@ public abstract class GetByIndexPerformanceTask extends ListPerformanceTask {
 
 	@Override
 	public void doTask() {
-		int index = objectList.size()/2;
-		objectList.get(index);
+		int index = collection.size()/2;
+		collection.get(index);
 	}
 
 }

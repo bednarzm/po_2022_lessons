@@ -1,16 +1,18 @@
 package pl.edu.pw.mini.po.part2collections.collections.performancetasks.set.remove;
 
-import java.util.Set;
+import java.util.Collection;
 import java.util.TreeSet;
 
-public class RemoveFromTreeSetPerformanceTask extends RemoveFromSetPerformanceTask {
+import pl.edu.pw.mini.po.part2collections.collections.performancetasks.list.remove.RemoveByIteratorPerformanceTask;
+
+public class RemoveFromTreeSetPerformanceTask extends RemoveByIteratorPerformanceTask {
 	
 	public RemoveFromTreeSetPerformanceTask(int taskSize, String taskTitle) {
 		super(taskSize, taskTitle);
 	}
 
 	@Override
-	protected Set<Object> getSetImplementation() {
+	protected Collection<Object> getCollectionImplementation() {
 		return new TreeSet<Object>();
 	}
 }

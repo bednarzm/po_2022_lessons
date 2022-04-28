@@ -1,0 +1,1000 @@
+Ruger 10/22 Compact Rifle;0.22 ;serial:810976463;0,28;false
+SIG P226;9 mm;serial:647040418;0,84;false
+P-83;9 mm;serial:118258186;0,62;false
+Uzi;9 mm;serial:774085096;0,78;false
+Ruger GP161;357 Magnum;serial:820129718;0,06;false
+Ruger GP100, 6 Round;357 Magnum;serial:53980600;0,28;true
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:923331590;0,99;true
+LWRC IC-Enhanced;5.56 mm;serial:926984797;0,93;false
+SIG P229;9 mm;serial:727075802;0,39;false
+Uzi;9 mm;serial:932319163;0,63;false
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:699602333;0,74;false
+Springfield SAINT AR15;223 Remington;serial:204847187;0,18;false
+CZ 75 BD;9 mm;serial:923176887;0,70;false
+Ruger 10/22 Compact Rifle;0.22 ;serial:805755133;0,68;false
+Walther P22;0.22 ;serial:841945255;0,51;false
+SIG P226;9 mm;serial:399181252;0,83;false
+Glock 19 G3;9 mm;serial:247351955;0,24;true
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:182937690;0,10;false
+Walther P22;0.22 ;serial:23086687;0,46;false
+Ruger GP161;357 Magnum;serial:866410760;0,08;false
+AK-47;7.62 mm;serial:665112550;0,77;true
+Ruger GP161;357 Magnum;serial:872199335;0,39;false
+Rak;9 mm;serial:643864403;0,54;true
+Ruger SR22;0.22 ;serial:449282250;0,34;false
+SIG P226;9 mm;serial:454735490;0,75;false
+Ruger SR22;0.22 ;serial:85149230;0,00;false
+AK-47;7.62 mm;serial:694386876;0,48;true
+SIG SP2022;9 mm;serial:907050463;0,13;true
+Glock G17 Standard;9 mm;serial:346962387;0,36;false
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:19324971;0,00;false
+LWRC IC-Enhanced;5.56 mm;serial:118982862;0,12;false
+SIG P229;9 mm;serial:653301679;0,75;false
+SIG P226;9 mm;serial:389209050;0,70;false
+Ruger GP161;357 Magnum;serial:116089351;0,52;false
+Just Right Carbine;9 mm;serial:99473269;0,18;false
+CZ 75 SP-01;9 mm;serial:9338688;0,48;false
+Glock 34;9 mm;serial:965845594;0,81;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:216585635;0,39;true
+Daniel Defense DDM4 V7 Pro;5.56 mm;serial:734032618;0,20;false
+Ruger GP100, 6 Round;357 Magnum;serial:676067849;0,38;false
+Springfield SAINT AR15;223 Remington;serial:606934655;0,26;false
+CZ 75 BD;9 mm;serial:530449825;0,38;false
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:871639112;0,97;false
+SIG P229;9 mm;serial:504118903;0,87;false
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:542838206;0,40;false
+P-83;9 mm;serial:669459884;0,06;false
+Springfield SAINT AR15;223 Remington;serial:972846729;0,96;false
+HK P2000 SK (V3) DA/SA;9 mm;serial:131946289;0,73;true
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:800357245;0,56;false
+Ruger 10/22 Compact Rifle;0.22 ;serial:293180079;0,40;false
+Browning Buckmark Plus UDX 22LR 5.5";0.22 ;serial:357131682;0,93;false
+LWRC IC-Enhanced;5.56 mm;serial:546452890;0,18;false
+Springfield Armory 1911;9 mm;serial:317954361;0,64;true
+Ruger SP101;357 Magnum;serial:116632094;0,39;false
+Glock 19 G3;9 mm;serial:289599117;0,03;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:110509157;0,91;false
+SIG P226;9 mm;serial:895895210;0,90;false
+Ruger GP161;357 Magnum;serial:378752687;0,14;false
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:192486300;0,13;false
+Ruger GP161;357 Magnum;serial:384548467;0,03;true
+AK-47;7.62 mm;serial:771637111;0,01;false
+Just Right Carbine;9 mm;serial:740580577;0,34;false
+Beretta 87W 22LR;0.22 ;serial:816530156;0,48;false
+Ruger SR22;0.22 ;serial:626694627;0,55;false
+Glock G26;9 mm;serial:894051086;0,76;false
+SIG P226;9 mm;serial:295199832;0,37;false
+Ruger GP100, 6 Round;357 Magnum;serial:849295531;0,73;false
+Glock G26;9 mm;serial:678534855;0,94;false
+CZ 75 SP-01;9 mm;serial:377323012;0,34;true
+Glock 19 G3;9 mm;serial:153239381;0,17;false
+SIG SP2022;9 mm;serial:508050509;0,74;false
+Just Right Carbine;9 mm;serial:208708705;0,62;false
+Ruger 10/22 Compact Rifle;0.22 ;serial:726234869;0,90;false
+Glock 34;9 mm;serial:254222325;0,07;false
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:349760084;0,92;false
+Glock G17 Standard;9 mm;serial:974328169;0,87;false
+Springfield Armory 1911;9 mm;serial:115619981;0,30;false
+SIG P226;9 mm;serial:179553712;0,40;false
+SIG P229;9 mm;serial:9893911;0,70;true
+SIG P229;9 mm;serial:701916222;0,05;false
+CZ 75 SP-01;9 mm;serial:684356855;0,70;false
+Glock 19 G3;9 mm;serial:58374236;0,78;true
+Glock 19 G3;9 mm;serial:180369682;0,54;true
+LWRC IC-Enhanced;5.56 mm;serial:528039089;0,20;false
+Ruger SP101;357 Magnum;serial:133210382;0,93;false
+Walther P22;0.22 ;serial:767322097;0,98;false
+Beretta 87W 22LR;0.22 ;serial:796574959;0,65;false
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:658829071;0,65;false
+LWRC IC-Enhanced;5.56 mm;serial:117743964;0,89;true
+Ruger SP101;357 Magnum;serial:872909275;0,85;false
+AK-47;7.62 mm;serial:243914945;0,06;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:726978775;0,93;false
+Uzi;9 mm;serial:519043912;0,47;false
+Ruger GP100, 6 Round;357 Magnum;serial:732757522;0,38;false
+LWRC IC-Enhanced;5.56 mm;serial:228931523;0,70;false
+Kel-Tec Sport Utility Carbine California Approved;223 Remington;serial:477846748;0,43;false
+Kel-Tec Sport Utility Carbine California Approved;223 Remington;serial:526828204;0,79;true
+Glock 19 G3;9 mm;serial:557598423;0,12;false
+SIG P226;9 mm;serial:617306806;0,37;false
+Ruger SR22;0.22 ;serial:806292516;0,67;false
+Ruger GP100, 6 Round;357 Magnum;serial:638080459;0,71;true
+SIG P229;9 mm;serial:664172275;0,86;false
+Glauberyt;9 mm;serial:354415301;0,80;false
+CZ 75 BD;9 mm;serial:204612156;0,92;false
+Margolin;0.22 ;serial:912888689;0,24;false
+Glock G26;9 mm;serial:488501016;0,29;false
+Margolin;0.22 ;serial:462535236;0,50;false
+Ruger Mini 30 Ranch;7.62 mm;serial:750416894;0,02;false
+LWRC IC-Enhanced;5.56 mm;serial:529980410;0,37;false
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:939523889;0,37;false
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:311307248;0,76;true
+AK-47;7.62 mm;serial:603473087;0,65;false
+SIG P226;9 mm;serial:948459016;0,30;false
+Ruger Mini 30 Ranch;7.62 mm;serial:587883599;0,64;false
+Glock 34;9 mm;serial:947405279;0,68;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:673027183;0,56;false
+SIG P226;9 mm;serial:510331288;0,89;true
+Ruger GP100, 6 Round;357 Magnum;serial:269059660;0,95;false
+Beretta 87W 22LR;0.22 ;serial:953605873;0,56;true
+LWRC IC-Enhanced;5.56 mm;serial:771603618;0,56;false
+Ruger GP100, 6 Round;357 Magnum;serial:73159767;0,84;true
+CZ 75 BD;9 mm;serial:899698615;0,38;true
+Springfield SAINT AR15;223 Remington;serial:871357044;0,77;false
+Walther P22;0.22 ;serial:270874443;0,12;false
+Daniel Defense DDM4 V7 Pro;5.56 mm;serial:390925390;0,59;true
+Just Right Carbine;9 mm;serial:66536488;0,48;false
+Ruger SP101;357 Magnum;serial:895632201;0,47;true
+Glock 34;9 mm;serial:52015285;0,96;false
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:958958912;0,15;true
+SIG P226;9 mm;serial:63416812;0,80;false
+P-83;9 mm;serial:358831145;0,19;false
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:89342207;0,47;true
+Ruger SP101;357 Magnum;serial:657043019;0,31;false
+Walther P22;0.22 ;serial:609511586;0,81;false
+Ruger 10/22 Compact Rifle;0.22 ;serial:249452358;0,99;false
+Ruger GP100, 6 Round;357 Magnum;serial:57447658;0,55;false
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:946828296;0,96;true
+Ruger GP100, 6 Round;357 Magnum;serial:262147503;0,67;false
+Daniel Defense DDM4 V7 Pro;5.56 mm;serial:168246267;0,89;false
+SIG P229;9 mm;serial:801581842;0,30;false
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:377765788;0,26;true
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:305819989;0,81;false
+Ruger GP100, 6 Round;357 Magnum;serial:553646015;0,38;false
+SIG P226;9 mm;serial:989171746;0,88;false
+CZ 75 BD;9 mm;serial:257087653;0,39;false
+Beretta 87W 22LR;0.22 ;serial:306991805;0,94;true
+Glock G17 Standard;9 mm;serial:161773682;0,31;false
+Ruger 10/22 Compact Rifle;0.22 ;serial:663317379;0,20;false
+Ruger SR22;0.22 ;serial:682547884;0,04;true
+Ruger 10/22 Compact Rifle;0.22 ;serial:180559844;0,77;false
+Springfield SAINT AR15;223 Remington;serial:331975097;0,74;false
+Ruger SP101;357 Magnum;serial:865545415;0,63;false
+Glock G26;9 mm;serial:924399123;0,70;false
+Ruger GP100, 6 Round;357 Magnum;serial:873870353;0,14;false
+Springfield Armory 1911;9 mm;serial:822656758;0,40;true
+CZ 75 SP-01;9 mm;serial:687565983;0,31;true
+P-83;9 mm;serial:560825028;0,19;false
+Beretta 87W 22LR;0.22 ;serial:437565744;0,19;false
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:853252193;0,19;false
+Glock G26;9 mm;serial:833004156;0,66;false
+Margolin;0.22 ;serial:296574872;0,38;false
+Browning Buckmark Plus UDX 22LR 5.5";0.22 ;serial:882089914;0,53;false
+Glock G26;9 mm;serial:148116392;0,39;false
+SIG SP2022;9 mm;serial:947512752;0,39;true
+Ruger GP100, 6 Round;357 Magnum;serial:839764357;0,22;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:778812000;0,13;true
+Walther P22;0.22 ;serial:809582461;0,10;true
+SIG P226;9 mm;serial:180984388;0,94;true
+SIG P229;9 mm;serial:547194160;0,73;true
+Just Right Carbine;9 mm;serial:31657266;0,47;true
+Glauberyt;9 mm;serial:462487716;0,98;false
+Glock G26;9 mm;serial:501306564;0,80;false
+Margolin;0.22 ;serial:260062024;0,25;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:721429177;0,52;false
+Springfield Armory 1911;9 mm;serial:336497194;0,04;false
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:766639674;0,21;true
+Ruger GP161;357 Magnum;serial:76442091;0,28;false
+Ruger 10/22 Compact Rifle;0.22 ;serial:821840133;0,68;false
+Springfield SAINT AR15;223 Remington;serial:814544188;0,90;false
+P-83;9 mm;serial:402339118;0,15;true
+Ruger Mini 30 Ranch;7.62 mm;serial:965601776;0,31;false
+P-83;9 mm;serial:618895107;0,96;true
+Ruger SP101;357 Magnum;serial:679316770;0,09;false
+LWRC IC-Enhanced;5.56 mm;serial:880483874;0,64;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:554137465;0,73;true
+Ruger GP100, 6 Round;357 Magnum;serial:657176075;0,34;true
+HK P2000 SK (V3) DA/SA;9 mm;serial:600227309;0,83;true
+SIG P229;9 mm;serial:689784619;0,03;false
+CZ 75 BD;9 mm;serial:652289399;0,81;true
+Glauberyt;9 mm;serial:475752183;0,27;false
+Glock 19 G3;9 mm;serial:417329946;0,50;false
+Beretta 87W 22LR;0.22 ;serial:480140463;0,42;false
+Walther P22;0.22 ;serial:281266269;0,96;false
+Walther P22;0.22 ;serial:411114159;0,87;false
+Glock 19 G3;9 mm;serial:874962280;0,86;false
+P-83;9 mm;serial:304463343;0,99;false
+Margolin;0.22 ;serial:144544286;0,36;false
+Ruger SP101;357 Magnum;serial:109767924;0,30;true
+Springfield Armory 1911;9 mm;serial:919216040;0,86;false
+Glock G26;9 mm;serial:358513860;0,05;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:141569589;0,91;true
+Ruger GP161;357 Magnum;serial:829804470;0,43;false
+Browning Buckmark Plus UDX 22LR 5.5";0.22 ;serial:115195103;0,19;false
+Ruger GP161;357 Magnum;serial:825517426;0,14;false
+Ruger 10/22 Compact Rifle;0.22 ;serial:519734203;0,96;false
+Glock G26;9 mm;serial:482666879;0,73;true
+SIG P226;9 mm;serial:933137226;0,84;false
+Uzi;9 mm;serial:861580319;0,39;false
+Glock 19 G3;9 mm;serial:758706646;0,21;false
+Springfield Armory 1911;9 mm;serial:6376997;0,23;false
+AK-47;7.62 mm;serial:998413356;0,79;false
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:723121453;0,66;false
+Beretta 87W 22LR;0.22 ;serial:896143447;0,85;false
+Springfield SAINT AR15;223 Remington;serial:14547902;0,73;false
+Glock 34;9 mm;serial:636356213;0,56;false
+Glauberyt;9 mm;serial:572677260;0,37;false
+Ruger GP161;357 Magnum;serial:305337501;0,51;false
+SIG SP2022;9 mm;serial:654744804;0,29;false
+CZ 75 BD;9 mm;serial:20368953;0,96;false
+Ruger SP101;357 Magnum;serial:402160721;0,91;false
+Uzi;9 mm;serial:638666944;0,53;true
+Glock 19 G3;9 mm;serial:833595282;0,61;false
+Ruger 10/22 Compact Rifle;0.22 ;serial:54999175;0,46;false
+Glock G17 Standard;9 mm;serial:33034047;0,67;false
+Glock G26;9 mm;serial:558963455;0,40;false
+Beretta 87W 22LR;0.22 ;serial:785416714;0,08;false
+Margolin;0.22 ;serial:161041906;0,87;false
+Just Right Carbine;9 mm;serial:598803333;0,86;false
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:449573704;0,64;false
+Glock 34;9 mm;serial:22009894;0,43;true
+SIG P226;9 mm;serial:839258518;0,99;true
+SIG P226;9 mm;serial:26068868;0,86;true
+Glock 19 G3;9 mm;serial:551946644;0,11;false
+Glock G26;9 mm;serial:200506903;0,71;false
+CZ 75 BD;9 mm;serial:420616407;0,26;false
+HK P2000 SK (V3) DA/SA;9 mm;serial:417447647;0,76;true
+Browning Buckmark Plus UDX 22LR 5.5";0.22 ;serial:280882056;0,33;false
+Glock G26;9 mm;serial:927489513;0,09;false
+LWRC IC-Enhanced;5.56 mm;serial:482849983;0,57;false
+Margolin;0.22 ;serial:493954211;0,02;false
+Ruger GP161;357 Magnum;serial:12817278;0,02;false
+Glock G26;9 mm;serial:88886266;0,52;false
+Kel-Tec Sport Utility Carbine California Approved;223 Remington;serial:573205372;0,35;false
+Ruger Mini 30 Ranch;7.62 mm;serial:791282039;1,00;true
+Glock 34;9 mm;serial:867470640;0,55;true
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:837903088;0,91;false
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:854583314;0,08;false
+Springfield Armory 1911;9 mm;serial:853141547;0,79;false
+LWRC IC-Enhanced;5.56 mm;serial:988348205;0,42;false
+Springfield SAINT AR15;223 Remington;serial:134369484;0,53;false
+AK-47;7.62 mm;serial:610407581;0,75;false
+Springfield SAINT AR15;223 Remington;serial:776032951;0,66;true
+Uzi;9 mm;serial:941170064;0,80;false
+HK P2000 SK (V3) DA/SA;9 mm;serial:871336108;0,62;false
+AK-47;7.62 mm;serial:146825161;0,36;false
+Kel-Tec Sport Utility Carbine California Approved;223 Remington;serial:876749744;0,04;true
+Margolin;0.22 ;serial:889797537;0,34;false
+SIG SP2022;9 mm;serial:868184315;0,11;false
+Springfield SAINT AR15;223 Remington;serial:873409220;0,60;false
+Uzi;9 mm;serial:134173997;0,59;false
+Kel-Tec Sport Utility Carbine California Approved;223 Remington;serial:741210406;0,40;true
+Kel-Tec Sport Utility Carbine California Approved;223 Remington;serial:598834550;0,43;false
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:910390639;0,09;false
+Uzi;9 mm;serial:917444786;0,75;true
+Kel-Tec Sport Utility Carbine California Approved;223 Remington;serial:567639200;0,84;true
+SIG P226;9 mm;serial:660395755;0,91;false
+Glock G26;9 mm;serial:514073563;0,38;false
+Ruger GP161;357 Magnum;serial:960911687;0,14;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:933489737;0,96;true
+SIG SP2022;9 mm;serial:677271292;0,02;false
+Daniel Defense DDM4 V7 Pro;5.56 mm;serial:450172664;0,98;false
+CZ 75 BD;9 mm;serial:35582252;0,54;false
+Ruger 10/22 Compact Rifle;0.22 ;serial:474343897;0,99;true
+CZ 75 SP-01;9 mm;serial:210889571;0,35;false
+Kel-Tec Sport Utility Carbine California Approved;223 Remington;serial:658466011;0,21;false
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:194518025;0,30;false
+SIG P226;9 mm;serial:749268692;0,79;false
+Glock 34;9 mm;serial:652771480;0,70;false
+HK P2000 SK (V3) DA/SA;9 mm;serial:404570677;0,92;false
+Springfield SAINT AR15;223 Remington;serial:687196885;0,38;true
+LWRC IC-Enhanced;5.56 mm;serial:7295747;0,85;false
+Glock 34;9 mm;serial:989727288;0,81;true
+Walther P22;0.22 ;serial:450117031;0,06;false
+P-83;9 mm;serial:461372224;0,37;false
+AK-47;7.62 mm;serial:440482777;0,06;false
+SIG P226;9 mm;serial:911573445;0,22;false
+AK-47;7.62 mm;serial:655680103;0,59;false
+AK-47;7.62 mm;serial:454549293;0,98;false
+Springfield SAINT AR15;223 Remington;serial:34853151;0,60;true
+Uzi;9 mm;serial:944716985;0,44;false
+SIG P226;9 mm;serial:803187250;0,30;false
+HK P2000 SK (V3) DA/SA;9 mm;serial:816340462;0,51;false
+Daniel Defense DDM4 V7 Pro;5.56 mm;serial:674266218;0,06;false
+SIG SP2022;9 mm;serial:596464195;0,38;false
+Ruger SR22;0.22 ;serial:424313768;0,82;false
+P-83;9 mm;serial:12381699;0,78;false
+LWRC IC-Enhanced;5.56 mm;serial:467858766;0,26;false
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:377994433;0,81;false
+P-83;9 mm;serial:658339718;0,89;false
+Glauberyt;9 mm;serial:319360443;0,62;true
+CZ 75 SP-01;9 mm;serial:737285477;0,94;false
+SIG P226;9 mm;serial:896279708;0,92;true
+Beretta 87W 22LR;0.22 ;serial:568365196;0,07;false
+Margolin;0.22 ;serial:872761781;0,15;false
+Walther P22;0.22 ;serial:874001240;0,85;true
+Beretta 87W 22LR;0.22 ;serial:929187143;0,01;true
+Margolin;0.22 ;serial:212400751;0,23;false
+SIG P226;9 mm;serial:968381029;0,19;false
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:599025646;0,91;false
+SIG P226;9 mm;serial:406433178;0,91;true
+Ruger Mini 30 Ranch;7.62 mm;serial:239304358;0,14;true
+Glauberyt;9 mm;serial:364049144;0,25;false
+Ruger Mini 30 Ranch;7.62 mm;serial:269458235;0,80;false
+Glock G26;9 mm;serial:44526716;0,36;false
+Glauberyt;9 mm;serial:116971475;0,78;false
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:406501535;0,32;true
+Ruger SP101;357 Magnum;serial:255647273;0,68;true
+Ruger Mini 30 Ranch;7.62 mm;serial:550285918;0,02;true
+Glock 34;9 mm;serial:562969273;0,17;false
+LWRC IC-Enhanced;5.56 mm;serial:866476741;0,06;false
+Ruger GP100, 6 Round;357 Magnum;serial:27689082;0,28;true
+Uzi;9 mm;serial:26787424;0,36;false
+Ruger GP161;357 Magnum;serial:537341536;0,55;false
+Glock G26;9 mm;serial:468331490;0,71;true
+Just Right Carbine;9 mm;serial:547143260;0,02;true
+Glauberyt;9 mm;serial:5557846;1,00;false
+Just Right Carbine;9 mm;serial:269677805;0,41;true
+Springfield SAINT AR15;223 Remington;serial:530825671;0,78;false
+SIG SP2022;9 mm;serial:355153276;0,79;false
+Kel-Tec Sport Utility Carbine California Approved;223 Remington;serial:332203951;0,30;true
+Walther P22;0.22 ;serial:435098477;0,63;false
+SIG SP2022;9 mm;serial:736011170;0,76;true
+Glock 34;9 mm;serial:43697761;0,39;true
+LWRC IC-Enhanced;5.56 mm;serial:697754819;0,70;true
+Ruger 10/22 Compact Rifle;0.22 ;serial:765850520;0,51;false
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:808724037;0,81;true
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:814236843;0,23;false
+Ruger GP161;357 Magnum;serial:171736666;0,93;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:740697991;0,24;false
+Ruger SR22;0.22 ;serial:368776005;0,16;false
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:596547080;0,09;false
+Glock G26;9 mm;serial:621775298;0,74;false
+Rak;9 mm;serial:885786310;0,62;false
+Ruger 10/22 Compact Rifle;0.22 ;serial:247554561;0,03;false
+P-83;9 mm;serial:179630950;0,22;false
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:401838645;0,90;false
+Ruger SP101;357 Magnum;serial:398284236;0,49;false
+Glock G26;9 mm;serial:818409367;0,02;false
+Springfield SAINT AR15;223 Remington;serial:427487723;0,51;false
+P-83;9 mm;serial:160233253;0,93;false
+Beretta 87W 22LR;0.22 ;serial:492253696;0,82;false
+Daniel Defense DDM4 V7 Pro;5.56 mm;serial:954014353;0,67;false
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:111266375;0,86;false
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:435781835;0,22;false
+Glauberyt;9 mm;serial:968918585;0,80;false
+Beretta 87W 22LR;0.22 ;serial:448256424;0,40;false
+Daniel Defense DDM4 V7 Pro;5.56 mm;serial:304038636;0,98;true
+Walther P22;0.22 ;serial:972626777;0,35;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:803014578;0,19;true
+Margolin;0.22 ;serial:707362247;0,01;true
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:858807655;0,64;true
+Uzi;9 mm;serial:365280863;0,13;true
+Ruger SR22;0.22 ;serial:265969677;0,39;false
+AK-47;7.62 mm;serial:515974245;0,27;false
+Springfield SAINT AR15;223 Remington;serial:482081939;0,51;false
+AK-47;7.62 mm;serial:694827526;0,40;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:125041888;0,61;true
+SIG SP2022;9 mm;serial:502002381;0,15;false
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:569837572;0,32;false
+SIG P226;9 mm;serial:217319844;0,68;false
+Beretta 87W 22LR;0.22 ;serial:874353390;0,22;true
+Daniel Defense DDM4 V7 Pro;5.56 mm;serial:94188680;0,60;false
+Margolin;0.22 ;serial:320031296;0,62;false
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:690055594;0,18;false
+Ruger SP101;357 Magnum;serial:525958079;0,39;false
+P-83;9 mm;serial:374541861;0,99;false
+Springfield Armory 1911;9 mm;serial:963815014;0,98;false
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:407008468;0,01;true
+Daniel Defense DDM4 V7 Pro;5.56 mm;serial:514864487;0,15;false
+Glauberyt;9 mm;serial:812222249;0,85;false
+CZ 75 SP-01;9 mm;serial:401092488;0,77;false
+SIG SP2022;9 mm;serial:810824939;0,80;false
+SIG P226;9 mm;serial:536088940;0,76;false
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:383004946;0,25;true
+CZ 75 SP-01;9 mm;serial:948191249;0,21;true
+Ruger 10/22 Compact Rifle;0.22 ;serial:189505503;0,12;false
+Walther P22;0.22 ;serial:739735453;0,56;true
+Ruger 10/22 Compact Rifle;0.22 ;serial:637903781;0,84;true
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:720919136;0,53;false
+Ruger SP101;357 Magnum;serial:397597118;0,96;false
+Springfield SAINT AR15;223 Remington;serial:119908674;0,67;true
+SIG P226;9 mm;serial:230383429;0,96;false
+Glauberyt;9 mm;serial:51328428;0,06;false
+Glock G17 Standard;9 mm;serial:853895693;0,26;false
+SIG P226;9 mm;serial:785538947;0,28;true
+LWRC IC-Enhanced;5.56 mm;serial:345828448;0,10;true
+SIG SP2022;9 mm;serial:726366106;0,87;false
+Beretta 87W 22LR;0.22 ;serial:728852548;0,12;false
+Browning Buckmark Plus UDX 22LR 5.5";0.22 ;serial:796271299;0,73;false
+Ruger 10/22 Compact Rifle;0.22 ;serial:620045302;0,44;true
+Glock 34;9 mm;serial:515580800;0,73;false
+SIG SP2022;9 mm;serial:578763980;0,71;true
+Glauberyt;9 mm;serial:954142628;0,32;false
+SIG P226;9 mm;serial:99603567;0,70;false
+Glock 34;9 mm;serial:421212319;0,69;false
+Rak;9 mm;serial:7151236;0,12;false
+SIG SP2022;9 mm;serial:492453009;0,11;false
+Margolin;0.22 ;serial:914121930;0,75;false
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:724664970;0,41;false
+CZ 75 BD;9 mm;serial:452836064;0,13;false
+P-83;9 mm;serial:198649351;0,86;true
+Beretta 87W 22LR;0.22 ;serial:759543634;0,36;true
+SIG P229;9 mm;serial:758432075;0,47;true
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:413761110;0,87;true
+SIG SP2022;9 mm;serial:989418344;0,34;true
+Uzi;9 mm;serial:357776521;0,29;true
+Ruger 10/22 Compact Rifle;0.22 ;serial:73149625;0,23;false
+Ruger SP101;357 Magnum;serial:688334713;0,30;false
+Kel-Tec Sport Utility Carbine California Approved;223 Remington;serial:639596886;0,10;true
+Walther P22;0.22 ;serial:166183404;0,49;false
+Ruger Mini 30 Ranch;7.62 mm;serial:531476341;0,46;true
+AK-47;7.62 mm;serial:97492100;0,82;true
+Beretta 87W 22LR;0.22 ;serial:705462296;0,85;false
+Springfield SAINT AR15;223 Remington;serial:454957225;0,87;false
+Ruger Mini 30 Ranch;7.62 mm;serial:779787330;0,44;false
+Margolin;0.22 ;serial:966232922;0,58;false
+Beretta 87W 22LR;0.22 ;serial:749668453;0,31;false
+SIG P229;9 mm;serial:525120078;0,11;true
+Ruger GP100, 6 Round;357 Magnum;serial:476185162;0,27;false
+Ruger GP100, 6 Round;357 Magnum;serial:784092363;0,23;false
+SIG P229;9 mm;serial:341078404;0,51;false
+LWRC IC-Enhanced;5.56 mm;serial:198370726;0,18;false
+Glock 19 G3;9 mm;serial:624704268;0,64;true
+SIG P229;9 mm;serial:809162452;0,93;false
+P-83;9 mm;serial:199853047;0,56;false
+Just Right Carbine;9 mm;serial:506601215;0,12;false
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:206278641;0,04;false
+Browning Buckmark Plus UDX 22LR 5.5";0.22 ;serial:60102779;0,09;false
+SIG P226;9 mm;serial:671282320;0,15;false
+Ruger SR22;0.22 ;serial:104646022;0,88;false
+Glauberyt;9 mm;serial:405098914;0,21;true
+CZ 75 SP-01;9 mm;serial:546577021;0,25;false
+Uzi;9 mm;serial:523695714;0,95;false
+Daniel Defense DDM4 V7 Pro;5.56 mm;serial:969041129;0,18;true
+SIG P226;9 mm;serial:503217061;0,57;false
+Beretta 87W 22LR;0.22 ;serial:323348524;0,74;false
+Ruger GP161;357 Magnum;serial:816784846;0,89;true
+LWRC IC-Enhanced;5.56 mm;serial:14818031;0,05;false
+Glock G17 Standard;9 mm;serial:889791501;0,57;false
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:874663753;0,53;true
+Browning Buckmark Plus UDX 22LR 5.5";0.22 ;serial:971264558;0,73;true
+Rak;9 mm;serial:789390929;0,88;true
+AK-47;7.62 mm;serial:3145071;0,62;true
+CZ 75 BD;9 mm;serial:793610032;0,09;false
+SIG SP2022;9 mm;serial:868428868;0,05;false
+Ruger Mini 30 Ranch;7.62 mm;serial:949150705;0,46;false
+Daniel Defense DDM4 V7 Pro;5.56 mm;serial:353828415;0,40;false
+Ruger 10/22 Compact Rifle;0.22 ;serial:920316452;0,65;false
+Margolin;0.22 ;serial:213254932;0,55;true
+LWRC IC-Enhanced;5.56 mm;serial:525250294;0,54;false
+Margolin;0.22 ;serial:54407031;0,13;false
+AK-47;7.62 mm;serial:281823215;0,95;false
+SIG P226;9 mm;serial:740898360;0,15;false
+Ruger GP161;357 Magnum;serial:339098634;0,56;false
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:105442394;0,60;false
+Daniel Defense DDM4 V7 Pro;5.56 mm;serial:279379169;0,24;false
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:611433630;0,91;false
+Ruger 10/22 Compact Rifle;0.22 ;serial:429227657;0,90;false
+Glauberyt;9 mm;serial:100713746;0,99;false
+SIG P226;9 mm;serial:956117242;0,18;false
+Uzi;9 mm;serial:832839593;0,21;false
+Ruger GP161;357 Magnum;serial:89234922;0,98;true
+Rak;9 mm;serial:137724449;0,44;false
+Glock G17 Standard;9 mm;serial:797206172;0,80;false
+Glauberyt;9 mm;serial:895855756;0,02;true
+P-83;9 mm;serial:288299338;0,88;true
+CZ 75 BD;9 mm;serial:626379371;0,62;true
+Glauberyt;9 mm;serial:699744700;0,36;false
+CZ 75 BD;9 mm;serial:38086677;0,01;false
+AK-47;7.62 mm;serial:222311546;0,96;false
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:888738972;0,60;false
+Glock 19 G3;9 mm;serial:340935170;0,56;false
+P-83;9 mm;serial:787001584;0,85;false
+Beretta 87W 22LR;0.22 ;serial:59162718;0,82;true
+HK P2000 SK (V3) DA/SA;9 mm;serial:610409266;0,37;false
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:574395299;0,32;false
+Ruger Mini 30 Ranch;7.62 mm;serial:139856655;0,05;false
+Springfield SAINT AR15;223 Remington;serial:603912239;0,35;true
+Springfield Armory 1911;9 mm;serial:739599060;0,70;true
+Beretta 87W 22LR;0.22 ;serial:111801665;0,64;false
+Springfield Armory 1911;9 mm;serial:443968909;0,72;true
+P-83;9 mm;serial:618775226;0,04;false
+SIG P229;9 mm;serial:267869531;0,40;false
+Browning Buckmark Plus UDX 22LR 5.5";0.22 ;serial:217541961;0,71;false
+Ruger GP161;357 Magnum;serial:573129169;0,22;false
+Margolin;0.22 ;serial:173655094;0,21;true
+Ruger Mini 30 Ranch;7.62 mm;serial:787170481;0,68;false
+Ruger Mini 30 Ranch;7.62 mm;serial:690099491;0,11;false
+Ruger Mini 30 Ranch;7.62 mm;serial:456093967;0,58;false
+SIG P229;9 mm;serial:414525444;0,22;false
+Ruger SR22;0.22 ;serial:139410527;0,44;false
+Margolin;0.22 ;serial:405913128;0,95;true
+Kel-Tec Sport Utility Carbine California Approved;223 Remington;serial:723418054;0,52;false
+Walther P22;0.22 ;serial:663461207;0,94;true
+Margolin;0.22 ;serial:153207923;0,59;false
+Walther P22;0.22 ;serial:847623805;0,80;false
+Springfield SAINT AR15;223 Remington;serial:234563777;0,62;false
+Glauberyt;9 mm;serial:52589754;0,10;true
+Rak;9 mm;serial:516182326;0,80;false
+Glock 34;9 mm;serial:272893560;0,90;false
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:975645624;0,61;false
+SIG P229;9 mm;serial:152663436;0,17;true
+Ruger GP100, 6 Round;357 Magnum;serial:484901074;0,90;true
+Walther P22;0.22 ;serial:267154188;0,67;true
+Glock 34;9 mm;serial:875355664;0,83;false
+Ruger GP161;357 Magnum;serial:644907653;0,26;true
+Beretta 87W 22LR;0.22 ;serial:190356121;0,65;false
+Glock 19 G3;9 mm;serial:432596294;0,05;false
+CZ 75 SP-01;9 mm;serial:357763145;0,65;true
+Uzi;9 mm;serial:939251401;0,76;false
+Glock G17 Standard;9 mm;serial:999003626;0,70;false
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:679251920;0,27;false
+SIG P229;9 mm;serial:430421313;0,08;false
+P-83;9 mm;serial:561965545;0,22;false
+P-83;9 mm;serial:454962212;0,70;false
+Springfield SAINT AR15;223 Remington;serial:766772660;0,51;false
+SIG P226;9 mm;serial:360872922;0,32;false
+Ruger 10/22 Compact Rifle;0.22 ;serial:888282239;0,24;false
+Walther P22;0.22 ;serial:353654350;0,25;true
+LWRC IC-Enhanced;5.56 mm;serial:986344038;0,95;false
+Walther P22;0.22 ;serial:820727196;0,05;false
+Glock 34;9 mm;serial:710143455;0,44;false
+AK-47;7.62 mm;serial:916959478;0,31;false
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:53752487;0,35;false
+P-83;9 mm;serial:489018118;0,06;false
+SIG SP2022;9 mm;serial:888605629;0,37;false
+Daniel Defense DDM4 V7 Pro;5.56 mm;serial:452365935;0,44;false
+Springfield Armory 1911;9 mm;serial:195010307;0,56;false
+Kel-Tec Sport Utility Carbine California Approved;223 Remington;serial:999755907;0,65;false
+Ruger GP161;357 Magnum;serial:778627580;0,25;true
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:973664053;0,34;false
+Ruger SP101;357 Magnum;serial:971570407;0,34;false
+Ruger GP161;357 Magnum;serial:85995750;0,76;false
+Just Right Carbine;9 mm;serial:601454885;0,32;false
+Glauberyt;9 mm;serial:287935069;0,77;false
+SIG SP2022;9 mm;serial:893507981;0,83;false
+LWRC IC-Enhanced;5.56 mm;serial:348764902;0,30;false
+Ruger SP101;357 Magnum;serial:443711358;0,57;false
+Glauberyt;9 mm;serial:308266863;0,47;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:842103629;0,54;false
+Glauberyt;9 mm;serial:932796797;0,40;false
+Browning Buckmark Plus UDX 22LR 5.5";0.22 ;serial:727375880;0,98;false
+Springfield Armory 1911;9 mm;serial:171095471;0,13;false
+Springfield SAINT AR15;223 Remington;serial:376207935;0,55;false
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:30625494;0,47;true
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:882421997;0,62;false
+Springfield SAINT AR15;223 Remington;serial:574864208;0,04;true
+Beretta 87W 22LR;0.22 ;serial:998843568;0,92;true
+Ruger GP100, 6 Round;357 Magnum;serial:599387933;0,96;false
+Ruger 10/22 Compact Rifle;0.22 ;serial:858070407;0,75;false
+LWRC IC-Enhanced;5.56 mm;serial:492173783;0,53;false
+Ruger SP101;357 Magnum;serial:344051748;0,71;false
+P-83;9 mm;serial:915437637;0,29;false
+Glock 34;9 mm;serial:986165056;0,14;false
+Ruger GP100, 6 Round;357 Magnum;serial:327245481;0,48;true
+Ruger SP101;357 Magnum;serial:767916874;0,95;true
+Ruger SR22;0.22 ;serial:700907997;0,47;false
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:382836819;0,72;false
+Kel-Tec Sport Utility Carbine California Approved;223 Remington;serial:352099793;0,01;false
+Ruger GP161;357 Magnum;serial:855106088;0,15;false
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:780850261;0,12;false
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:895794066;0,71;false
+Rak;9 mm;serial:142384190;0,14;false
+P-83;9 mm;serial:818736980;0,18;false
+Springfield Armory 1911;9 mm;serial:848602514;0,17;false
+Ruger SP101;357 Magnum;serial:145200108;0,84;false
+Ruger GP100, 6 Round;357 Magnum;serial:344600714;0,66;false
+Browning Buckmark Plus UDX 22LR 5.5";0.22 ;serial:238950264;0,84;true
+Ruger Mini 30 Ranch;7.62 mm;serial:771224482;0,56;false
+Ruger SR22;0.22 ;serial:864043816;0,04;false
+Ruger Mini 30 Ranch;7.62 mm;serial:967237260;0,04;false
+Ruger GP100, 6 Round;357 Magnum;serial:224307622;0,91;false
+Ruger 10/22 Compact Rifle;0.22 ;serial:620226555;0,44;false
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:764094439;0,59;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:595829340;0,99;false
+Ruger SR22;0.22 ;serial:796983426;0,16;true
+Uzi;9 mm;serial:543071293;0,30;false
+SIG P229;9 mm;serial:196047097;0,07;false
+Ruger SP101;357 Magnum;serial:75449600;0,93;false
+Walther P22;0.22 ;serial:648297293;0,40;false
+Walther P22;0.22 ;serial:51106661;0,93;false
+SIG P226;9 mm;serial:869400971;0,93;false
+Springfield Armory 1911;9 mm;serial:538167418;0,85;false
+Rak;9 mm;serial:929421768;0,18;false
+Beretta 87W 22LR;0.22 ;serial:892386986;0,83;true
+Ruger GP161;357 Magnum;serial:303642515;0,86;false
+CZ 75 SP-01;9 mm;serial:460234314;0,84;false
+Ruger GP161;357 Magnum;serial:125299002;0,16;false
+Ruger SP101;357 Magnum;serial:887393846;0,16;true
+Daniel Defense DDM4 V7 Pro;5.56 mm;serial:216705297;0,60;false
+SIG P226;9 mm;serial:874894435;0,78;false
+CZ 75 BD;9 mm;serial:607824490;0,70;true
+HK P2000 SK (V3) DA/SA;9 mm;serial:266503727;0,59;false
+Ruger GP100, 6 Round;357 Magnum;serial:162606361;0,27;true
+Glock G17 Standard;9 mm;serial:474612808;0,45;true
+CZ 75 BD;9 mm;serial:248803346;0,55;true
+Margolin;0.22 ;serial:1374386;0,75;false
+Glock G26;9 mm;serial:329131112;0,55;true
+Glock G26;9 mm;serial:717210875;0,67;true
+Kel-Tec Sport Utility Carbine California Approved;223 Remington;serial:41196147;0,82;false
+Glock 34;9 mm;serial:231678404;0,61;false
+CZ 75 BD;9 mm;serial:703889133;0,29;false
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:960971271;0,21;true
+SIG P226;9 mm;serial:326367375;0,14;true
+SIG SP2022;9 mm;serial:265633370;0,86;true
+Ruger GP161;357 Magnum;serial:756137729;0,42;true
+Glock G17 Standard;9 mm;serial:276933825;0,92;false
+SIG SP2022;9 mm;serial:561908378;0,59;false
+AK-47;7.62 mm;serial:12985832;0,93;false
+Springfield Armory 1911;9 mm;serial:145745913;0,47;false
+Glock 19 G3;9 mm;serial:49772524;0,53;false
+Ruger GP100, 6 Round;357 Magnum;serial:186760105;0,45;false
+CZ 75 SP-01;9 mm;serial:71040324;0,14;false
+Daniel Defense DDM4 V7 Pro;5.56 mm;serial:621849710;0,09;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:231154366;0,65;false
+Uzi;9 mm;serial:63824;0,47;false
+Ruger SR22;0.22 ;serial:577871288;0,09;false
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:690471392;0,03;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:708066553;0,42;false
+Glock G17 Standard;9 mm;serial:250313730;0,05;true
+Ruger 10/22 Compact Rifle;0.22 ;serial:466865157;0,34;false
+SIG P229;9 mm;serial:41703113;0,17;true
+AK-47;7.62 mm;serial:491214848;0,72;false
+Ruger SR22;0.22 ;serial:949445833;0,65;false
+SIG P229;9 mm;serial:270817520;0,77;false
+SIG P229;9 mm;serial:929188306;0,91;false
+Just Right Carbine;9 mm;serial:304503853;0,02;false
+CZ 75 SP-01;9 mm;serial:463749362;0,71;false
+Springfield Armory 1911;9 mm;serial:965311343;0,82;false
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:685417761;0,90;false
+Glock 19 G3;9 mm;serial:784834376;0,91;false
+P-83;9 mm;serial:403343023;0,60;false
+Springfield SAINT AR15;223 Remington;serial:835486937;0,34;false
+SIG SP2022;9 mm;serial:522398718;0,84;false
+Walther P22;0.22 ;serial:589545603;0,41;false
+Browning Buckmark Plus UDX 22LR 5.5";0.22 ;serial:79026788;0,56;false
+Ruger GP161;357 Magnum;serial:809481134;0,52;false
+P-83;9 mm;serial:280900512;0,09;false
+Ruger SR22;0.22 ;serial:506894176;0,08;false
+Just Right Carbine;9 mm;serial:393959407;0,41;false
+Walther P22;0.22 ;serial:95883139;0,16;false
+CZ 75 SP-01;9 mm;serial:479640158;0,60;false
+CZ 75 BD;9 mm;serial:224706438;0,52;true
+SIG P229;9 mm;serial:356752721;0,80;false
+Uzi;9 mm;serial:395833435;0,66;false
+Daniel Defense DDM4 V7 Pro;5.56 mm;serial:95880746;0,58;true
+Daniel Defense DDM4 V7 Pro;5.56 mm;serial:96180322;0,72;false
+Ruger GP100, 6 Round;357 Magnum;serial:75249709;0,51;false
+Kel-Tec Sport Utility Carbine California Approved;223 Remington;serial:218593457;0,99;false
+Ruger SR22;0.22 ;serial:757092384;0,09;true
+Ruger GP100, 6 Round;357 Magnum;serial:613747977;0,98;true
+CZ 75 BD;9 mm;serial:766631137;0,32;false
+Glock G17 Standard;9 mm;serial:266437842;0,95;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:623586901;0,99;false
+LWRC IC-Enhanced;5.56 mm;serial:747460808;0,16;false
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:460046936;0,00;false
+Kel-Tec Sport Utility Carbine California Approved;223 Remington;serial:671030791;0,11;true
+Browning Buckmark Plus UDX 22LR 5.5";0.22 ;serial:812781317;0,62;false
+SIG P229;9 mm;serial:929663934;0,66;true
+AK-47;7.62 mm;serial:152227887;0,30;true
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:276452650;0,63;false
+Glock G26;9 mm;serial:220007244;0,70;false
+Margolin;0.22 ;serial:803132877;0,07;false
+CZ 75 SP-01;9 mm;serial:849981025;0,32;false
+Ruger SP101;357 Magnum;serial:874295437;0,54;false
+Browning Buckmark Plus UDX 22LR 5.5";0.22 ;serial:961243358;0,65;true
+Glauberyt;9 mm;serial:985141899;0,20;true
+LWRC IC-Enhanced;5.56 mm;serial:755415042;0,04;true
+AK-47;7.62 mm;serial:951401541;0,67;false
+SIG P229;9 mm;serial:987530497;0,22;false
+Ruger GP161;357 Magnum;serial:509922676;0,29;false
+SIG P226;9 mm;serial:819728402;0,58;true
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:34707217;0,07;false
+Ruger GP161;357 Magnum;serial:816385043;0,81;false
+Kel-Tec Sport Utility Carbine California Approved;223 Remington;serial:351302573;0,36;true
+Ruger Mini 30 Ranch;7.62 mm;serial:327586873;0,76;false
+Glauberyt;9 mm;serial:333289144;0,90;true
+Ruger GP100, 6 Round;357 Magnum;serial:860075080;0,69;false
+HK P2000 SK (V3) DA/SA;9 mm;serial:865717530;0,02;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:186863893;0,80;true
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:207455455;0,88;false
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:121070548;0,49;false
+Rak;9 mm;serial:620009510;0,10;false
+AK-47;7.62 mm;serial:875030781;0,38;false
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:291119212;0,44;false
+Glock G17 Standard;9 mm;serial:598138919;0,88;false
+SIG P226;9 mm;serial:34115015;0,55;false
+Ruger Mini 30 Ranch;7.62 mm;serial:755196611;0,30;true
+Glock G17 Standard;9 mm;serial:804562672;0,93;true
+Ruger 10/22 Compact Rifle;0.22 ;serial:668212482;0,90;false
+Glock 34;9 mm;serial:694670037;0,10;false
+Walther P22;0.22 ;serial:123217749;0,79;true
+SIG P226;9 mm;serial:735516401;0,30;false
+Glock 34;9 mm;serial:550558877;0,22;false
+Just Right Carbine;9 mm;serial:601832216;0,66;false
+SIG P226;9 mm;serial:184903872;0,82;true
+SIG P226;9 mm;serial:408452398;0,68;true
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:472280943;0,33;false
+Ruger 10/22 Compact Rifle;0.22 ;serial:806354747;0,00;false
+Uzi;9 mm;serial:141857949;0,11;false
+Ruger 10/22 Compact Rifle;0.22 ;serial:125922511;0,97;false
+Ruger GP100, 6 Round;357 Magnum;serial:116636856;0,45;false
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:107625742;0,83;false
+Uzi;9 mm;serial:225182355;0,73;false
+Rak;9 mm;serial:929580462;0,30;false
+CZ 75 SP-01;9 mm;serial:8644009;0,52;true
+Browning Buckmark Plus UDX 22LR 5.5";0.22 ;serial:229555485;0,42;false
+Glock 34;9 mm;serial:984300771;0,06;true
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:727972766;0,83;true
+SIG SP2022;9 mm;serial:638609497;0,88;false
+Glock 19 G3;9 mm;serial:230329698;0,45;false
+LWRC IC-Enhanced;5.56 mm;serial:127383027;0,23;true
+Glock 34;9 mm;serial:162793499;0,28;false
+Uzi;9 mm;serial:730724033;0,40;false
+Ruger GP100, 6 Round;357 Magnum;serial:547138279;0,73;false
+Glock G26;9 mm;serial:802040819;0,94;true
+Ruger GP100, 6 Round;357 Magnum;serial:331262215;0,10;true
+SIG SP2022;9 mm;serial:256822345;0,77;false
+Glock G17 Standard;9 mm;serial:401788051;0,70;false
+Beretta 87W 22LR;0.22 ;serial:595209506;0,08;false
+Springfield SAINT AR15;223 Remington;serial:631428717;0,52;true
+Browning Buckmark Plus UDX 22LR 5.5";0.22 ;serial:544102549;0,90;false
+Springfield SAINT AR15;223 Remington;serial:891492862;0,10;false
+Margolin;0.22 ;serial:832552320;0,08;false
+Ruger 10/22 Compact Rifle;0.22 ;serial:834769268;0,84;true
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:158950480;0,88;false
+Just Right Carbine;9 mm;serial:402389043;0,70;true
+CZ 75 BD;9 mm;serial:18573311;0,48;false
+Beretta 87W 22LR;0.22 ;serial:768099442;0,99;true
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:89933905;0,67;true
+Glock G26;9 mm;serial:748176117;0,64;false
+Glock G17 Standard;9 mm;serial:550551674;0,92;false
+Walther P22;0.22 ;serial:317855086;0,76;true
+SIG P226;9 mm;serial:428431048;0,45;true
+Ruger GP100, 6 Round;357 Magnum;serial:51837176;0,55;false
+CZ 75 SP-01;9 mm;serial:496931768;0,93;false
+SIG SP2022;9 mm;serial:129727913;0,97;false
+Beretta 87W 22LR;0.22 ;serial:595503082;0,54;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:287729948;0,56;false
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:521903204;0,76;true
+Daniel Defense DDM4 V7 Pro;5.56 mm;serial:863144140;0,71;false
+Ruger SR22;0.22 ;serial:175584124;0,37;false
+Ruger SP101;357 Magnum;serial:101290188;0,89;false
+Browning Buckmark Plus UDX 22LR 5.5";0.22 ;serial:497570276;0,90;false
+Glock 19 G3;9 mm;serial:880745936;0,39;false
+Glock 34;9 mm;serial:947528406;0,24;false
+Uzi;9 mm;serial:949434526;0,61;false
+HK P2000 SK (V3) DA/SA;9 mm;serial:164383723;0,27;false
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:608908544;0,42;false
+Ruger SP101;357 Magnum;serial:864782336;0,51;false
+Rak;9 mm;serial:222855784;0,76;false
+Walther P22;0.22 ;serial:524083201;0,13;false
+HK P2000 SK (V3) DA/SA;9 mm;serial:908319867;0,27;false
+Glauberyt;9 mm;serial:595864339;0,79;false
+Ruger SR22;0.22 ;serial:933814226;0,37;false
+SIG SP2022;9 mm;serial:450465030;0,34;false
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:293094172;0,92;false
+P-83;9 mm;serial:68982235;0,13;false
+Browning Buckmark Plus UDX 22LR 5.5";0.22 ;serial:355016374;0,70;false
+Glock 19 G3;9 mm;serial:511094751;0,65;false
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:809516358;0,15;false
+Rak;9 mm;serial:462462122;0,28;false
+Ruger GP161;357 Magnum;serial:828481970;0,48;true
+SIG P226;9 mm;serial:269043041;0,03;false
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:731638724;0,24;false
+AK-47;7.62 mm;serial:279422515;0,22;true
+Glock 34;9 mm;serial:784126461;0,82;false
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:574236685;0,85;false
+SIG P226;9 mm;serial:775007422;0,54;false
+Glock G26;9 mm;serial:746705153;0,14;false
+Glauberyt;9 mm;serial:313348632;0,47;false
+AK-47;7.62 mm;serial:226368219;0,17;false
+Glock 34;9 mm;serial:344850259;0,74;false
+Just Right Carbine;9 mm;serial:945194455;0,25;false
+LWRC IC-Enhanced;5.56 mm;serial:695195795;0,32;false
+SIG P229;9 mm;serial:283862577;0,83;false
+Glock G26;9 mm;serial:462061772;0,15;false
+AK-47;7.62 mm;serial:803878464;0,40;false
+SIG P226;9 mm;serial:852400690;0,17;false
+Rak;9 mm;serial:656029494;0,26;true
+Uzi;9 mm;serial:19141676;0,32;false
+Glock G17 Standard;9 mm;serial:314127199;0,89;true
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:506045956;0,67;false
+CZ 75 BD;9 mm;serial:682817589;0,64;false
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:870224870;0,01;false
+HK P2000 SK (V3) DA/SA;9 mm;serial:367619823;0,72;false
+AK-47;7.62 mm;serial:687991318;0,81;true
+Beretta 87W 22LR;0.22 ;serial:350792407;0,71;true
+Springfield SAINT AR15;223 Remington;serial:273310503;0,51;true
+Glock 34;9 mm;serial:574555812;0,35;false
+Glauberyt;9 mm;serial:740025802;0,66;false
+LWRC IC-Enhanced;5.56 mm;serial:922260672;0,29;false
+Glock G26;9 mm;serial:679655683;0,82;false
+Glauberyt;9 mm;serial:809439686;0,83;false
+Springfield Armory 1911;9 mm;serial:262940989;0,88;false
+SIG P229;9 mm;serial:411526671;0,36;false
+Glock G17 Standard;9 mm;serial:788310730;0,61;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:145748666;0,84;false
+SIG P226;9 mm;serial:132172520;0,09;false
+LWRC IC-Enhanced;5.56 mm;serial:13817976;0,23;false
+Glock 19 G3;9 mm;serial:90371433;0,38;true
+Springfield SAINT AR15;223 Remington;serial:505176268;0,92;true
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:237043947;0,34;false
+Ruger 10/22 Compact Rifle;0.22 ;serial:34357106;0,30;false
+Ruger SP101;357 Magnum;serial:224189006;0,14;false
+SIG P226;9 mm;serial:866772280;0,74;true
+Ruger Mini 30 Ranch;7.62 mm;serial:880805472;0,53;true
+Kel-Tec Sport Utility Carbine California Approved;223 Remington;serial:183046469;0,61;true
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:279951479;0,49;true
+Ruger SP101;357 Magnum;serial:832945572;0,31;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:516863097;0,18;false
+Ruger SR22;0.22 ;serial:69169966;0,04;false
+Glock G26;9 mm;serial:867767015;0,18;false
+Beretta 87W 22LR;0.22 ;serial:315747124;0,63;true
+CZ 75 BD;9 mm;serial:359940993;0,45;false
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:637545230;0,48;false
+Beretta 87W 22LR;0.22 ;serial:172505292;0,45;false
+Glock G26;9 mm;serial:738978726;0,95;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:364797118;0,53;true
+CZ 75 SP-01;9 mm;serial:271196192;0,83;false
+LWRC IC-Enhanced;5.56 mm;serial:44381569;0,24;false
+HK P2000 SK (V3) DA/SA;9 mm;serial:702525222;0,95;false
+P-83;9 mm;serial:568842739;0,06;false
+LWRC IC-Enhanced;5.56 mm;serial:346438820;0,33;false
+Springfield SAINT AR15;223 Remington;serial:275390984;0,56;false
+Ruger Mini 30 Ranch;7.62 mm;serial:546328383;0,47;false
+Glock G17 Standard;9 mm;serial:318138408;0,90;false
+Kel-Tec Sport Utility Carbine California Approved;223 Remington;serial:48707146;0,61;false
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:47392018;0,40;false
+SIG P226;9 mm;serial:842385277;0,52;false
+Walther P22;0.22 ;serial:378146737;0,61;false
+Glock G26;9 mm;serial:210509672;0,24;true
+SIG SP2022;9 mm;serial:783967535;0,61;false
+Just Right Carbine;9 mm;serial:166121735;0,59;true
+Margolin;0.22 ;serial:433926350;0,86;true
+Walther P22;0.22 ;serial:736902786;0,94;false
+Walther P22;0.22 ;serial:952489627;0,48;true
+Walther P22;0.22 ;serial:14980933;0,76;false
+Kel-Tec Sport Utility Carbine California Approved;223 Remington;serial:495512423;0,74;false
+Glock 19 G3;9 mm;serial:223202805;0,65;false
+Beretta 87W 22LR;0.22 ;serial:576295373;0,56;false
+Browning Buckmark Plus UDX 22LR 5.5";0.22 ;serial:628792656;0,71;false
+Glock 19 G3;9 mm;serial:249923005;0,41;false
+Ruger 10/22 Compact Rifle;0.22 ;serial:156062684;0,30;true
+Walther P22;0.22 ;serial:434582087;0,45;false
+Ruger SR22;0.22 ;serial:135152972;0,37;true
+Walther P22;0.22 ;serial:893028408;0,28;true
+SIG P226;9 mm;serial:10245268;0,76;true
+P-83;9 mm;serial:557112024;0,95;false
+Kel-Tec Sport Utility Carbine California Approved;223 Remington;serial:28203543;0,07;false
+Beretta 87W 22LR;0.22 ;serial:56783622;0,40;false
+Rak;9 mm;serial:78731252;0,04;false
+Glauberyt;9 mm;serial:269953342;0,41;false
+Browning Buckmark Plus UDX 22LR 5.5";0.22 ;serial:652819080;0,88;false
+CZ 75 BD;9 mm;serial:187629088;0,35;true
+Ruger SP101;357 Magnum;serial:475961244;0,45;false
+Glauberyt;9 mm;serial:658559097;0,84;false
+Daniel Defense DDM4 V7 Pro;5.56 mm;serial:751058050;0,27;false
+CZ 75 SP-01;9 mm;serial:933157164;0,14;false
+Glock G26;9 mm;serial:730316219;0,55;false
+Ruger 10/22 Compact Rifle;0.22 ;serial:907442215;0,84;false
+SIG P229;9 mm;serial:942603672;0,87;false
+Beretta 87W 22LR;0.22 ;serial:194862291;0,42;false
+Uzi;9 mm;serial:579439150;0,51;false
+Ruger Mini 30 Ranch;7.62 mm;serial:691433310;0,60;false
+P-83;9 mm;serial:388148854;0,13;false
+AK-47;7.62 mm;serial:314479527;0,30;false
+HK P2000 SK (V3) DA/SA;9 mm;serial:601977799;0,70;false
+Glock G17 Standard;9 mm;serial:364008123;0,21;true
+Springfield SAINT AR15;223 Remington;serial:350969666;0,01;true
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:915081591;0,79;false
+Glauberyt;9 mm;serial:567572725;0,71;false
+CZ 75 BD;9 mm;serial:540856830;0,06;false
+Glock 34;9 mm;serial:854981228;0,93;false
+CZ 75 SP-01;9 mm;serial:602855601;0,83;true
+Glock G26;9 mm;serial:443041061;0,70;false
+Ruger GP100, 6 Round;357 Magnum;serial:783475240;0,03;false
+Glock 19 G3;9 mm;serial:952529940;0,33;false
+HK P2000 SK (V3) DA/SA;9 mm;serial:490150164;0,47;false
+AK-47;7.62 mm;serial:337412042;0,42;true
+Glock G26;9 mm;serial:700468774;0,27;false
+Ruger GP100, 6 Round;357 Magnum;serial:530161168;0,79;true
+Rak;9 mm;serial:998143729;0,39;true
+Glock 19 G3;9 mm;serial:577966276;0,54;false
+Springfield Armory 1911;9 mm;serial:589569324;0,15;false
+Springfield Armory 1911;9 mm;serial:72270465;0,07;false
+Springfield SAINT AR15;223 Remington;serial:894416281;0,91;false
+SIG SP2022;9 mm;serial:454558289;0,74;false
+Just Right Carbine;9 mm;serial:293630887;0,56;false
+Glock 19 G3;9 mm;serial:206351245;0,54;false
+Margolin;0.22 ;serial:840904657;0,94;false
+Glock 34;9 mm;serial:12986837;0,34;true
+Rak;9 mm;serial:746699334;0,13;true
+LWRC IC-Enhanced;5.56 mm;serial:777790184;0,59;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:113768384;0,74;true
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:128065424;0,31;true
+Uzi;9 mm;serial:226733469;0,27;true
+Ruger 10/22 Compact Rifle;0.22 ;serial:528291653;0,62;false
+LWRC IC-Enhanced;5.56 mm;serial:697903737;0,77;false
+SIG P229;9 mm;serial:2650277;0,39;false
+SIG P229;9 mm;serial:330342872;0,60;false
+Walther P22;0.22 ;serial:68271474;0,88;false
+Springfield Armory 1911;9 mm;serial:315198608;0,83;true
+Ruger SR22;0.22 ;serial:40341221;0,48;true
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:731188721;0,66;false
+Daniel Defense DDM4 V7 Pro;5.56 mm;serial:169368884;0,26;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:779250963;0,03;false
+SIG P229;9 mm;serial:383950566;0,80;true
+LWRC IC-Enhanced;5.56 mm;serial:82076563;0,68;false
+Glock 34;9 mm;serial:460153872;0,31;false
+Browning Buckmark Plus UDX 22LR 5.5";0.22 ;serial:174154760;0,20;false
+Glock 34;9 mm;serial:984032044;0,46;false
+Margolin;0.22 ;serial:362364366;0,01;false
+CZ 75 SP-01;9 mm;serial:429558333;0,19;false
+Ruger GP161;357 Magnum;serial:879807584;0,13;false
+Beretta 87W 22LR;0.22 ;serial:525659224;0,49;true
+Ruger Mini 30 Ranch;7.62 mm;serial:935083413;0,98;false
+SIG P226;9 mm;serial:900591151;0,72;false
+Beretta 87W 22LR;0.22 ;serial:738393158;0,17;true
+Ruger 10/22 Compact Rifle;0.22 ;serial:826293867;0,79;false
+Daniel Defense DDM4 V7 Pro;5.56 mm;serial:549176198;0,01;true
+SIG SP2022;9 mm;serial:124622349;0,41;false
+Ruger Mini 30 Ranch;7.62 mm;serial:736900326;0,70;false
+Ruger 10/22 Carbine Semi-Auto;0.22 ;serial:256794355;0,58;false
+Stag Arms Model 2TFL Featureless Semi-Automatic;5.56 mm;serial:401208047;0,81;false
+P-83;9 mm;serial:951037744;0,73;false
+CZ 75 BD;9 mm;serial:802022867;0,28;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:240899501;0,41;false
+CZ 75 SP-01;9 mm;serial:861412039;0,73;false
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:594923451;0,29;false
+SIG P226;9 mm;serial:912071741;0,44;false
+Ruger SR22;0.22 ;serial:234042151;0,56;false
+Glock G17 Standard;9 mm;serial:684644751;0,44;false
+HK P2000 SK (V3) DA/SA;9 mm;serial:614704411;0,09;false
+Ruger GP161;357 Magnum;serial:576482770;0,13;false
+SIG P229;9 mm;serial:430713543;0,35;true
+Just Right Carbine;9 mm;serial:227891114;0,12;false
+Kel-Tec Sport Utility Carbine California Approved;223 Remington;serial:359411512;0,45;false
+Ruger GP100, 6 Round;357 Magnum;serial:360148846;0,10;true
+Just Right Carbine;9 mm;serial:966275355;0,74;true
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:498570038;0,69;true
+SIG P226;9 mm;serial:691271968;0,81;false
+Springfield SAINT AR15;223 Remington;serial:195676596;0,32;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:536759791;0,58;false
+Uzi;9 mm;serial:113010298;0,57;false
+SIG P226;9 mm;serial:930946030;0,65;false
+Walther P22;0.22 ;serial:692954622;0,55;false
+Smith & Wesson M&P9 Shield 3" Barrel CA Compliant Model;9 mm;serial:924579987;0,90;false
+Browning Buckmark Plus UDX 22LR 5.5";0.22 ;serial:878437799;0,78;true
+Ruger SR22;0.22 ;serial:690401368;0,44;false
+Springfield SAINT AR15;223 Remington;serial:752775837;0,44;false
+Ruger SP101;357 Magnum;serial:751904044;0,41;false
+POF Gen 4 ReVolt Bolt Gun;5.56 mm;serial:355965224;0,20;false
+SIG P229;9 mm;serial:517597391;0,98;false
+Glock 19 G3;9 mm;serial:198896732;0,05;false
+SIG P226;9 mm;serial:966049470;0,23;false
+Glock 34;9 mm;serial:431669700;0,64;false
+Glock 19 G3;9 mm;serial:388033244;0,26;true
+CZ 75 SP-01;9 mm;serial:775615897;0,84;false
+Ruger Mini 30 Ranch;7.62 mm;serial:350826833;0,88;false
+Browning Buckmark Plus UDX 22LR 5.5";0.22 ;serial:623563126;0,31;false
+P-83;9 mm;serial:376575050;0,84;true
+LWRC IC-Enhanced;5.56 mm;serial:184816461;0,09;true
+Glock 34;9 mm;serial:992507436;0,97;false
+CZ 75 SP-01;9 mm;serial:74918582;0,47;false
+Ruger SR22;0.22 ;serial:822000744;0,50;false
+Ruger GP100, 6 Round;357 Magnum;serial:796935775;0,19;false
+Ruger 10/22 Compact Rifle;0.22 ;serial:899677231;0,98;false
+CZ 75 SP-01;9 mm;serial:446626860;0,39;false
+Glauberyt;9 mm;serial:802902664;0,76;false
+Walther P22;0.22 ;serial:533273324;0,04;false
+LWRC IC-Enhanced;5.56 mm;serial:306579513;0,77;false
+Margolin;0.22 ;serial:489586692;0,60;false
+Ruger Mini 30 Ranch;7.62 mm;serial:667848038;0,61;true
+Beretta 87W 22LR;0.22 ;serial:487785892;0,28;false
+Glock G26;9 mm;serial:70106769;0,61;true
+Rak;9 mm;serial:372043971;0,73;false
+SIG SP2022;9 mm;serial:528765458;0,79;true
+Springfield Armory 1911;9 mm;serial:442309912;0,89;false
+CZ 75 BD;9 mm;serial:376106615;0,25;true
+LWRC IC-Enhanced;5.56 mm;serial:54854409;0,36;false
+SIG P226;9 mm;serial:216775559;0,78;false
+Springfield Armory 1911;9 mm;serial:475701615;0,87;false
+HK P2000 SK (V3) DA/SA;9 mm;serial:924558454;0,76;true
+Glauberyt;9 mm;serial:874572257;0,67;false
+Glock 34;9 mm;serial:960326300;0,60;false
+HK P2000 SK (V3) DA/SA;9 mm;serial:79428120;0,27;false
+Glock 34;9 mm;serial:208244885;0,40;false
+Daniel Defense DDM4 V7 Pro;5.56 mm;serial:141885929;0,14;false
+Ruger GP161;357 Magnum;serial:734107235;0,24;true

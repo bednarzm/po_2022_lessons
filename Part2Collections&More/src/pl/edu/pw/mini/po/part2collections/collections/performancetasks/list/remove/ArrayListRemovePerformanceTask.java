@@ -5,14 +5,14 @@ import java.util.List;
 
 import pl.edu.pw.mini.po.part2collections.collections.performance.PerformanceMeterTask;
 
-public class ArrayListRemovePerformanceTask extends RemoveFromListPerformanceTask {
+public class ArrayListRemovePerformanceTask extends RemoveByIteratorPerformanceTask {
 
 	public ArrayListRemovePerformanceTask(int taskSize, String taskTitle) {
 		super(taskSize, taskTitle);
 	}
 
 	@Override
-	protected List<Object> getListImplementation() {
+	protected List<Object> getCollectionImplementation() {
 		return new ArrayList<Object>();
 	}
 	

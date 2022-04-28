@@ -10,7 +10,7 @@ public class LinkedListContainsObjectPerformanceTask extends ContainsObjectPerfo
 	}
 
 	@Override
-	protected List<Object> getListImplementation() {
+	protected List<Object> getCollectionImplementation() {
 		return new LinkedList<Object>();
 	}
 	
